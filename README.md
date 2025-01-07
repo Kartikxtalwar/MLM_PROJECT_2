@@ -1,1 +1,1 @@
-# MLM_PROJECT_2
+# MLM_PROJECT_2(individual)
